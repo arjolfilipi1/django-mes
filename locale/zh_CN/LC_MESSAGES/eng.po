@@ -1,0 +1,1450 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-05-01 19:18+0800\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: .\basedata\apps.py:9
+msgid "BaseData"
+msgstr "Basic data" 
+
+#: .\basedata\models.py:16
+msgid "list code"
+msgstr "Number" 
+
+#: .\basedata\models.py:17
+msgid "list name"
+msgstr "Name" 
+
+#: .\basedata\models.py:18 .\syscfg\models.py:40 .\syscfg\models.py:41
+#: .\syscfg\models.py:48
+msgid "module"
+msgstr "Module" 
+
+#: .\basedata\models.py:19 .\basedata\models.py:38 .\organ\models.py:16
+#: .\organ\models.py:60 .\syscfg\models.py:37 .\syscfg\models.py:54
+#: .\syscfg\models.py:68
+msgid "in use"
+msgstr "In use?" 
+
+#: .\basedata\models.py:20
+msgid "is init"
+msgstr "Initial data?" 
+
+#: .\basedata\models.py:21
+msgid "is locked"
+msgstr "Locked?" 
+
+#: .\basedata\models.py:22
+msgid "locked by"
+msgstr "Locked user" 
+
+#: .\basedata\models.py:23
+msgid "locked time"
+msgstr "Locked time" 
+
+#: .\basedata\models.py:26 .\basedata\models.py:27
+msgid "value list"
+msgstr "Value list" 
+
+#: .\basedata\models.py:34
+msgid "list group"
+msgstr "Value list group" 
+
+#: .\basedata\models.py:36
+msgid "item code"
+msgstr "Item number" 
+
+#: .\basedata\models.py:37
+msgid "item name"
+msgstr "Item name" 
+
+#: .\basedata\models.py:39 .\organ\models.py:34 .\organ\models.py:66
+#: .\organ\models.py:104 .\syscfg\models.py:34 .\syscfg\models.py:52
+msgid "weight"
+msgstr "Sort weight" 
+
+#: .\basedata\models.py:53 .\basedata\models.py:54
+msgid "list item"
+msgstr "List item" 
+
+#: .\basedata\models.py:63 .\basedata\models.py:73 .\basedata\models.py:74
+#: .\organ\models.py:23
+msgid "address"
+msgstr "Address" 
+
+#: .\basedata\models.py:64 .\organ\models.py:24
+msgid "zipcode"
+msgstr "Postal code" 
+
+#: .\basedata\models.py:65 .\basedata\models.py:105 .\organ\models.py:27
+#: .\organ\models.py:63
+msgid "phone"
+msgstr "Contact number" 
+
+#: .\basedata\models.py:66 .\basedata\models.py:104 .\organ\models.py:26
+#: .\organ\models.py:64
+msgid "contacts"
+msgstr "Contact person" 
+
+#: .\basedata\models.py:82
+msgid "Customer"
+msgstr "Customer" 
+
+#: .\basedata\models.py:83
+msgid "Supplier"
+msgstr "Supplier" 
+
+#: .\basedata\models.py:93
+msgid "partner code"
+msgstr "Partner Number" 
+
+#: .\basedata\models.py:94
+msgid "partner name"
+msgstr "Name" 
+
+#: .\basedata\models.py:95 .\organ\models.py:14 .\organ\models.py:57
+#: .\organ\models.py:96
+msgid "short name"
+msgstr "Short Name" 
+
+#: .\basedata\models.py:96 .\organ\models.py:15 .\organ\models.py:58
+#: .\organ\models.py:97
+msgid "pinyin"
+msgstr "Pinyin/English" 
+
+#: .\basedata\models.py:97 .\organ\models.py:59
+msgid "type"
+msgstr "Category" 
+
+#: .\basedata\models.py:98
+msgid "level"
+msgstr "Level" 
+
+#: .\basedata\models.py:100 .\organ\models.py:18
+msgid "tax num"
+msgstr "Tax Identification Number" 
+
+#: .\basedata\models.py:101 .\organ\models.py:19
+msgid "tax address"
+msgstr "Billing Address/Phone" 
+
+#: .\basedata\models.py:102 .\organ\models.py:20
+msgid "tax account"
+msgstr "Billing Bank" 
+
+#: .\basedata\models.py:106 .\basedata\models.py:119
+msgid "memo"
+msgstr "Remarks" 
+
+#: .\basedata\models.py:109 .\basedata\models.py:110 .\basedata\models.py:120
+msgid "partner"
+msgstr "Partner" 
+
+#: .\basedata\models.py:117
+msgid "account num"
+msgstr "Bank Account Number" 
+
+#: .\basedata\models.py:118
+msgid "bank name"
+msgstr "Bank Account" 
+
+#: .\basedata\models.py:123 .\basedata\models.py:124
+msgid "bank account"
+msgstr "Bank Account" 
+
+#: .\common\const.py:20
+msgid "OFF"
+msgstr "Close" 
+
+#: .\common\const.py:21
+msgid "ON"
+msgstr "Open" 
+
+#: .\common\generic.py:31 .\syscfg\models.py:13
+msgid "begin date"
+msgstr "Start Date" 
+
+#: .\common\generic.py:32 .\syscfg\models.py:14
+msgid "end date"
+msgstr "End Date" 
+
+#: .\common\generic.py:33
+msgid "creator"
+msgstr "Create User" 
+
+#: .\common\generic.py:34
+msgid "modifier"
+msgstr "Modify User" 
+
+#: .\common\generic.py:35
+msgid "creation"
+msgstr "Creation Time" 
+
+#: .\common\generic.py:36
+msgid "modification"
+msgstr "Modification Time" 
+
+#: .\organ\apps.py:9 .\organ\models.py:37 .\organ\models.py:38
+#: .\organ\models.py:54
+msgid "organization"
+msgstr "Organization" 
+
+#: .\organ\models.py:12 .\organ\models.py:55
+msgid "organ code"
+msgstr "Organization Number" 
+
+#: .\organ\models.py:13 .\organ\models.py:56
+msgid "organ name"
+msgstr "Organization Name" 
+
+#: .\organ\models.py:22
+msgid "representative "
+msgstr "Legal Representative" 
+
+#: .\organ\models.py:25 .\organ\models.py:62
+msgid "fax"
+msgstr "Fax" 
+
+#: .\organ\models.py:28
+msgid "website"
+msgstr "Website" 
+
+#: .\organ\models.py:29 .\organ\models.py:65
+msgid "email"
+msgstr "Email" 
+
+#: .\organ\models.py:30
+msgid "license code"
+msgstr "Business License Code" 
+
+#: .\organ\models.py:31
+msgid "certificate code"
+msgstr "Organization Code" 
+
+#: .\organ\models.py:32
+msgid "business license"
+msgstr "Business License" 
+
+#: .\organ\models.py:33
+msgid "organization code certificate"
+msgstr "Organization Certificate" 
+
+#: .\organ\models.py:46
+msgid "BRANCH"
+msgstr "Branch/Division" 
+
+#: .\organ\models.py:47
+msgid "DEPARTMENT"
+msgstr "First-level Department" 
+
+#: .\organ\models.py:48
+msgid "OFFICE"
+msgstr "Second-level department/office/section" 
+
+#: .\organ\models.py:49
+msgid "TEAM"
+msgstr "Group/class" 
+
+#: .\organ\models.py:50
+msgid "COMMITTEE"
+msgstr "Committee" 
+
+#: .\organ\models.py:53 .\organ\models.py:93 .\syscfg\models.py:36
+#: .\syscfg\models.py:69
+msgid "parent"
+msgstr "Parent" 
+
+#: .\organ\models.py:61 .\organ\models.py:100
+msgid "is virtual"
+msgstr "Virtual? " 
+
+#: .\organ\models.py:69 .\organ\models.py:70 .\organ\models.py:92
+msgid "org unit"
+msgstr "Organizational Unit" 
+
+#: .\organ\models.py:78
+msgid "Admin Position"
+msgstr "Management" 
+
+#: .\organ\models.py:79
+msgid "Sale Position"
+msgstr "Marketing" 
+
+#: .\organ\models.py:80
+msgid "Technology Position"
+msgstr "Technical" 
+
+#: .\organ\models.py:81
+msgid "Produce Position"
+msgstr "Production/Operation" 
+
+#: .\organ\models.py:85
+msgid "BASIC"
+msgstr "Basic" 
+
+#: .\organ\models.py:86
+msgid "MEDIUM"
+msgstr "Intermediate" 
+
+#: .\organ\models.py:87
+msgid "SENIOR"
+msgstr "Advanced" 
+
+#: .\organ\models.py:88
+msgid "PROFESSOR"
+msgstr "Professor" 
+
+#: .\organ\models.py:89
+msgid "EXPERT"
+msgstr "Expert" 
+
+#: .\organ\models.py:94
+msgid "position code"
+msgstr "Job Number" 
+
+#: .\organ\models.py:95
+msgid "position name"
+msgstr "Job Name" 
+
+#: .\organ\models.py:98
+msgid "position series"
+msgstr "Job Sequence" 
+
+#: .\organ\models.py:99
+msgid "position grade"
+msgstr "Job Level" 
+
+#: .\organ\models.py:101
+msgid "position description"
+msgstr "Job Description" 
+
+#: .\organ\models.py:102
+msgid "qualification"
+msgstr "Qualification" 
+
+#: .\organ\models.py:103
+msgid "reference"
+msgstr "References" 
+
+#: .\organ\models.py:107 .\organ\models.py:108
+msgid "position"
+msgstr "Job" 
+
+#: .\syscfg\apps.py:9
+msgid "SysConfig"
+msgstr "System Configuration" 
+
+#: .\syscfg\models.py:15
+msgid "site name"
+msgstr "Site Name" 
+
+#: .\syscfg\models.py:16
+msgid "site description"
+msgstr "Description" 
+
+#: .\syscfg\models.py:17
+msgid "administrator"
+msgstr "Administrator" 
+
+#: .\syscfg\models.py:23 .\syscfg\models.py:24
+msgid "Site"
+msgstr "Site" 
+
+#: .\syscfg\models.py:31
+msgid "module code"
+msgstr "Module Number" 
+
+#: .\syscfg\models.py:32
+msgid "module name"
+msgstr "Module Name" 
+
+#: .\syscfg\models.py:33
+msgid "module url"
+msgstr "URL" 
+
+#: .\syscfg\models.py:35 .\syscfg\models.py:53
+msgid "style class"
+msgstr "Style Class" 
+
+#: .\syscfg\models.py:49
+msgid "menu code"
+msgstr "Menu Number" 
+
+#: .\syscfg\models.py:50
+msgid "menu name"
+msgstr "Menu Name" 
+
+#: .\syscfg\models.py:51
+msgid "menu url"
+msgstr "URL" 
+
+#: .\syscfg\models.py:57 .\syscfg\models.py:58
+msgid "menu"
+msgstr "Menu" 
+
+#: .\syscfg\models.py:65
+msgid "role code"
+msgstr "Role Number" 
+
+#: .\syscfg\models.py:66
+msgid "role name"
+msgstr "Role Name" 
+
+#: .\syscfg\models.py:67
+msgid "description"
+msgstr "Description" 
+
+#: .\syscfg\models.py:70
+msgid "role users"
+msgstr "Assign User" 
+
+#: .\syscfg\models.py:71
+msgid "role menus"
+msgstr "Assign Menu" 
+
+#: .\syscfg\models.py:74 .\syscfg\models.py:75
+msgid "role"
+msgstr "Role" 
+
+msgid "code"
+msgstr "Number" 
+
+msgid "address type"
+msgstr "Address Type" 
+
+msgid "project"
+msgstr "Project" 
+
+msgid "project code"
+msgstr "Project Number" 
+
+msgid "project name"
+msgstr "Project Name" 
+
+msgid "status"
+msgstr "Status" 
+
+msgid "project type"
+msgstr "Nature" 
+
+msgid "budget"
+msgstr "Budget Amount" 
+
+msgid "income"
+msgstr "Income Amount" 
+
+msgid "expand"
+msgstr "Expenditure Amount" 
+
+msgid "blueprint"
+msgstr "Technical/Drawing" 
+
+msgid "offer sheet"
+msgstr "Quotation" 
+
+msgid "business document"
+msgstr "Business/Tender" 
+
+msgid "related users"
+msgstr "Related Person" 
+
+msgid "trade"
+msgstr "Economic Industry" 
+
+msgid "brand"
+msgstr "Brand" 
+
+msgid "category"
+msgstr "Category" 
+
+msgid "path"
+msgstr "Path" 
+
+msgid "material"
+msgstr "Material" 
+
+msgid "material code"
+msgstr "Material number" 
+
+msgid "material name"
+msgstr "Material name" 
+
+msgid "bar code"
+msgstr "Barcode" 
+
+msgid "specifications"
+msgstr "Specification model" 
+
+msgid "is equipment"
+msgstr "Equipment? " 
+
+msgid "can sale"
+msgstr "Saleable" 
+
+msgid "warehouse"
+msgstr "Warehouse" 
+
+msgid "measure"
+msgstr "Unit of measurement" 
+
+msgid "stock price"
+msgstr "Inventory unit price" 
+
+msgid "purchase price"
+msgstr "Purchase unit price" 
+
+msgid "sale price"
+msgstr "Sales unit price" 
+
+msgid "technical parameter"
+msgstr "Technical parameters" 
+
+msgid "technical value"
+msgstr "Parameter value" 
+
+msgid "value"
+msgstr "Value" 
+
+msgid "location"
+msgstr "Location" 
+
+msgid "material category"
+msgstr "Material classification" 
+
+msgid "expenses account"
+msgstr "Expense account" 
+
+msgid "HR-DOMAIN"
+msgstr "Personnel expenses" 
+
+msgid "OFFICE-DOMAIN"
+msgstr "Administrative office" 
+
+msgid "PUBLIS-DOMAIN"
+msgstr "Operation public" 
+
+msgid "MUNADOMAIN"
+msgstr "Manufacturing" 
+
+msgid "BUSINESS"
+msgstr "Marketing business" 
+
+msgid "OTHER"
+msgstr "Other" 
+
+msgid "employee number"
+msgstr "Work ID" 
+
+msgid "employee name"
+msgstr "Employee Name" 
+
+msgid "birthday"
+msgstr "Date of Birth" 
+
+msgid "gender"
+msgstr "Gender" 
+
+msgid "id card"
+msgstr "ID Number" 
+
+msgid "nationality"
+msgstr "Nationality" 
+
+msgid "hometown"
+msgstr "Place of Origin" 
+
+msgid "home address"
+msgstr "Home Address" 
+
+msgid "emergency contacts"
+msgstr "Emergency Contact/Method" 
+
+msgid "office phone"
+msgstr "Office Phone" 
+
+msgid "employee rank"
+msgstr "Employee Rank" 
+
+msgid "workday"
+msgstr "Date of Joining Work" 
+
+msgid "start date"
+msgstr "Date of Joining the Company" 
+
+msgid "religion"
+msgstr "Religious Belief" 
+
+msgid "marital status"
+msgstr "Marital Status" 
+
+msgid "political party"
+msgstr "Political Status" 
+
+msgid "nation"
+msgstr "Nationality" 
+
+msgid "employ ygxs"
+msgstr "Employment form" 
+
+msgid "employ status"
+msgstr "Personnel status" 
+
+msgid "employ category"
+msgstr "Personnel category" 
+
+msgid "literacy"
+msgstr "Education level" 
+
+msgid "major type"
+msgstr "Professional category" 
+
+msgid "major degree"
+msgstr "Degree" 
+
+msgid "tag1 fzjr"
+msgstr "Re-employed military personnel?" 
+
+msgid "tag2 dwld"
+msgstr "Party committee leader?" 
+
+msgid "tag3 dsjs"
+msgstr "Director and supervisor?" 
+
+msgid "tag4 byzk"
+msgstr "Military service status" 
+
+msgid "employee"
+msgstr "Staff" 
+
+msgid "special job"
+msgstr "Special occupations?" " 
+
+msgid "family member"
+msgstr "Family Member" 
+
+msgid "education experience"
+msgstr "Educational Record" 
+
+msgid "work experience"
+msgstr "Work Record" 
+
+msgid "social status"
+msgstr "Personnel Identity" 
+
+msgid "emergency"
+msgstr "Emergency Contact? " 
+
+msgid "edu type"
+msgstr "Education Type" 
+
+msgid "school"
+msgstr "Graduate School" 
+
+msgid "major"
+msgstr "Major" 
+
+msgid "family title"
+msgstr "Member Title" 
+
+msgid "health"
+msgstr "Health Status" 
+
+msgid "Content Types"
+msgstr "Content Type" 
+
+msgid "workflow model"
+msgstr "Workflow Model" 
+
+msgid "workflow code"
+msgstr "Number" 
+
+msgid "workflow name"
+msgstr "Workflow Name" 
+
+msgid "app name"
+msgstr "Application Name" 
+
+msgid "model name"
+msgstr "Model Name" 
+
+msgid "node code"
+msgstr "Node Number" 
+
+msgid "node name"
+msgstr "Node Name" 
+
+msgid "tooltip words"
+msgstr "Prompt" 
+
+msgid "start node"
+msgstr "Starting Node?" 
+
+msgid "stop node"
+msgstr "Ending Node?" 
+
+msgid "can terminate"
+msgstr "Allow Termination?" " 
+
+msgid "can deny"
+msgstr "Allow rejection? " 
+
+msgid "email notice"
+msgstr "Email notification? " 
+
+msgid "short message notice"
+msgstr "SMS notification? " 
+
+msgid "approve node"
+msgstr "Approval Node" 
+
+msgid "handler"
+msgstr "Processor" 
+
+msgid "workflow node"
+msgstr "Workflow Node" 
+
+msgid "NEW"
+msgstr "New" 
+
+msgid "IN PROGRESS"
+msgstr "Processing" 
+
+msgid "DENY"
+msgstr "Reject" 
+
+msgid "TERMINATED"
+msgstr "Approval Terminated" 
+
+msgid "APPROVED"
+msgstr "Approved" 
+
+msgid "start user"
+msgstr "Submitter" 
+
+msgid "start time"
+msgstr "Submission Time" 
+
+msgid "approved time"
+msgstr "Approval Time" 
+
+msgid "current node"
+msgstr "Current Node" 
+
+msgid "SUBMIT"
+msgstr "Submit" 
+
+msgid "AGREE"
+msgstr "Agree" 
+
+msgid "workflow instance"
+msgstr "Workflow Instance" 
+
+msgid "submitter"
+msgstr "Submitter" 
+
+msgid "process time"
+msgstr "Processing Time" 
+
+msgid "process type"
+msgstr "Processing Type" 
+
+msgid "workflow history"
+msgstr "Approval Record" 
+
+msgid "arrived time"
+msgstr "Arrival Time" 
+
+msgid "is read"
+msgstr "Read?" 
+
+msgid "read time"
+msgstr "Reading Time" 
+
+msgid "workflow todo"
+msgstr "To-do Tasks" 
+
+msgid "workflow"
+msgstr "Workflow" 
+
+msgid "No, take me back"
+msgstr "No, Return" 
+
+msgid "submit"
+msgstr "Submit" 
+
+msgid "Are you sure you want to submit the %(object_name)s \"%(escaped_object)s\"? "
+msgstr "Are you sure you want to submit \"%(escaped_object)s\" for approval?" 
+
+msgid "next node"
+msgstr "Next Node" 
+
+msgid "designated department"
+msgstr "Department scope" 
+
+msgid "designated user"
+msgstr "Specified user" 
+
+msgid "designated role"
+msgstr "Specified role" 
+
+msgid "designated position"
+msgstr "Specified position" 
+
+msgid "handler type"
+msgstr "Processor type" 
+
+msgid "Please handle the request %(verbose)s:%(object)s"
+msgstr "Please approve the document:" 
+
+msgid "node"
+msgstr "Node" 
+
+msgid "Workflow Memo"
+msgstr "Approval comments" 
+
+msgid "Workflow History"
+msgstr "Approval history" 
+
+msgid "already read"
+msgstr "Read" 
+
+msgid "unread"
+msgstr "Unread" 
+
+msgid "workflow started successfully"
+msgstr "Workflow submission successful" 
+
+msgid "the object is already in workflow"
+msgstr "The object has been submitted for approval, please do not submit it again" 
+
+msgid "agree"
+msgstr "Agree" 
+
+msgid "deny"
+msgstr "Reject" 
+
+msgid "terminate"
+msgstr "Terminate" 
+
+msgid "workflow approve"
+msgstr "Workflow approval" 
+
+msgid "No workflow model was found"
+msgstr "Workflow model is not configured" 
+
+msgid "you needs to config a workflow model for this content type"
+msgstr "Please configure the process model for this business in Workflow/Workflow Model" 
+
+msgid "Hold down \"Control\", or \"Command\" on a Mac, to select more than one."
+msgstr "Press and hold the \"Ctrl\" key or the \"Command\" key on Mac to make multiple selections" 
+
+msgid "No user was configured to handle this node"
+msgstr "This node has no handler configured. Please contact the administrator to configure a handler" 
+
+msgid "current node is stop node,click the submit button to complete it"
+msgstr "This is the last step of the process. Click \"OK\" to complete the process" 
+
+msgid "workflow approved successfully"
+msgstr "Workflow approval is successful" 
+
+msgid "COMPLETED"
+msgstr "Complete" 
+
+msgid "Summary"
+msgstr "Summary" 
+
+msgid "Objects"
+msgstr "Object list" 
+
+msgid "your apply has been denied,you can restart a new apply"
+msgstr "Your application has not been approved. You can restart the application" 
+
+msgid "restart workflow"
+msgstr "Restart" 
+
+msgid "work order"
+msgstr "Work Order" 
+
+msgid "work orders"
+msgstr "Work Order" 
+
+msgid "classification"
+msgstr "Category" 
+
+msgid "business domain"
+msgstr "Business Domain" 
+
+msgid "workorder apply"
+msgstr "Work Order Service" 
+
+msgid "workorder code"
+msgstr "Work Order Number" 
+
+msgid "title"
+msgstr "Title" 
+
+msgid "amount"
+msgstr "Quantity" 
+
+msgid "price"
+msgstr "Unit Price" 
+
+msgid "service name"
+msgstr "Service Name" 
+
+msgid "refer wo"
+msgstr "Reference Work Order" 
+
+msgid "self help"
+msgstr "Personal Self-Service" 
+
+msgid "extra values"
+msgstr "Extended Information" 
+
+msgid "workorder items"
+msgstr "Work Order Details" 
+
+msgid "extra param"
+msgstr "Extended Parameters" 
+
+msgid "extra params"
+msgstr "Extended Parameters" 
+
+msgid "param value"
+msgstr "Value" 
+
+msgid "data type"
+msgstr "Data Category" 
+
+msgid "data source"
+msgstr "Data Source" 
+
+msgid "DATE"
+msgstr "Date" 
+
+msgid "NUMBER"
+msgstr "Number" 
+
+msgid "loans"
+msgstr "Loan Application" 
+
+msgid "loan"
+msgstr "Loan Application" 
+
+msgid "reimbursement"
+msgstr "Expense Reimbursement" 
+
+msgid "reimbursements"
+msgstr "Expense Reimbursement" 
+
+msgid "fee item"
+msgstr "Expense Details" 
+
+msgid "fee items"
+msgstr "Expense Details" 
+
+msgid "fee code"
+msgstr "Document Number" 
+
+msgid "loan code"
+msgstr "Document Number" 
+
+msgid "loan amount"
+msgstr "Loan Amount" 
+
+msgid "logout time"
+msgstr "Write-off Time" 
+
+msgid "logout amount"
+msgstr "Write-off Amount" 
+
+msgid "amount of money"
+msgstr "Amount" 
+
+msgid "cost center"
+msgstr "Cost Center" 
+
+msgid "loan record"
+msgstr "Loan Document" 
+
+msgid "pay amount"
+msgstr "Payment Amount" 
+
+msgid "occur date"
+msgstr "Date of occurrence" 
+
+msgid "fico"
+msgstr "Financial information" 
+
+msgid "Authentication and Authorization"
+msgstr "Authentication and authorization" 
+
+msgid "human resource"
+msgstr "Human resources" 
+
+msgid "salary items"
+msgstr "Salary items" 
+
+msgid "salary item"
+msgstr "Salary items" 
+
+msgid "plus or minus"
+msgstr "Increase and decrease attributes" 
+
+msgid "employee entries"
+msgstr "Personnel entry" 
+
+msgid "employee entry"
+msgstr "Personnel entry" 
+
+msgid "designate position"
+msgstr "Proposed position" 
+
+msgid "mail address"
+msgstr "Mailing address" 
+
+msgid "profile"
+msgstr "Resume information" 
+
+msgid "org distribute"
+msgstr "Organization assignment" 
+
+msgid "guider"
+msgstr "Instructor" 
+
+msgid "calculate way"
+msgstr "Calculation method" 
+
+msgid "fixed value"
+msgstr "Fixed value" 
+
+msgid "base value"
+msgstr "Base value" 
+
+msgid "org percent"
+msgstr "Company Ratio" 
+
+msgid "employee percent"
+msgstr "Employee Ratio" 
+
+msgid "probation months"
+msgstr "Probation Period" 
+
+msgid "probation begin"
+msgstr "Probation Start" 
+
+msgid "probation end"
+msgstr "Probation End" 
+
+msgid "is required"
+msgstr "Required? " 
+
+msgid "extra value"
+msgstr "Extended information" 
+
+msgid "workorder item"
+msgstr "Work order details" 
+
+msgid "inventory manage"
+msgstr "Inventory management" 
+
+msgid "Initial Inventory"
+msgstr "Opening inventory" 
+
+msgid "StockIn"
+msgstr "Incoming order" 
+
+msgid "StockOut"
+msgstr "Material collection order" 
+
+msgid "execute time"
+msgstr "Execution time" 
+
+msgid "in items"
+msgstr "Incoming details" 
+
+msgid "in item"
+msgstr "Incoming details" 
+
+msgid "out items"
+msgstr "Outgoing details" 
+
+msgid "out item"
+msgstr "Outgoing details" 
+
+msgid "init item"
+msgstr "Opening details" 
+
+msgid "PLUS"
+msgstr "Increase" 
+
+msgid "MINUS"
+msgstr "Decrease" 
+
+msgid "EXECUTED"
+msgstr "Executed" 
+
+msgid "QUALITY TESTING"
+msgstr "Quality inspection" 
+
+msgid "purchase manage"
+msgstr "Purchase Management" 
+
+msgid "purchase orders"
+msgstr "Purchase Order" 
+
+msgid "purchase order"
+msgstr "Purchase Order" 
+
+msgid "order date"
+msgstr "Order Date" 
+
+msgid "arrive date"
+msgstr "Delivery Date" 
+
+msgid "count"
+msgstr "Quantity" 
+
+msgid "money amount"
+msgstr "Amount" 
+
+msgid "discount amount"
+msgstr "Discount Amount" 
+
+msgid "tax rate"
+msgstr "Tax Rate" 
+
+msgid "po item"
+msgstr "Purchase Details" 
+
+msgid "discount price"
+msgstr "Discounted Unit Price" 
+
+msgid "batch"
+msgstr "Batch Number" 
+
+msgid "Action Stock In"
+msgstr "Incoming" 
+
+msgid "Action Stock Out"
+msgstr "Outgoing" 
+
+msgid "money of amount"
+msgstr "Amount" 
+
+msgid "stock in money of amount"
+msgstr "Incoming Amount" 
+
+msgid "entry time"
+msgstr "Incoming Time" 
+
+msgid "ALREADY STOCK IN"
+msgstr "Has been received" 
+
+msgid "Inventory"
+msgstr "Real-time inventory" 
+
+msgid "CHAR"
+msgstr "Character" 
+
+msgid "inventory material"
+msgstr "Inventory materials" 
+
+msgid "stock out time"
+msgstr "Outgoing time" 
+
+msgid "stock out amount"
+msgstr "Outgoing amount" 
+
+msgid "Invoice"
+msgstr "Invoice" 
+
+msgid "invoice date"
+msgstr "Invoice date" 
+
+msgid "invoice code"
+msgstr "Invoice code" 
+
+msgid "invoice number"
+msgstr "Invoice number" 
+
+msgid "po amount"
+msgstr "Purchase amount" 
+
+msgid "invoice amount"
+msgstr "Invoice amount" 
+
+msgid "invoice file"
+msgstr "Invoice file" 
+
+msgid "pay date"
+msgstr "Payment date" 
+
+msgid "pay code"
+msgstr "Payment number" 
+
+msgid "response code"
+msgstr "Bank receipt" 
+
+msgid "Payment"
+msgstr "Purchase payment" 
+
+msgid "activity"
+msgstr "Activity" 
+
+msgid "activities"
+msgstr "Activity" 
+
+msgid "begin time"
+msgstr "Start time" 
+
+msgid "end time"
+msgstr "End time" 
+
+msgid "host"
+msgstr "Host" 
+
+msgid "speaker"
+msgstr "Speaker" 
+
+msgid "room"
+msgstr "Room/Conference Room" 
+
+msgid "mail list"
+msgstr "Mail Group" 
+
+msgid "mail notice"
+msgstr "Mail Notification" 
+
+msgid "weixin notice"
+msgstr "WeChat Notification" 
+
+msgid "attach"
+msgstr "Attachment" 
+
+msgid "Meeting"
+msgstr "Meeting" 
+
+msgid "Train"
+msgstr "Training" 
+
+msgid "Community"
+msgstr "Group Activity" 
+
+msgid "out user"
+msgstr "Material Receiver" 
+
+msgid "other info"
+msgstr "Other Information" 
+
+msgid "InOut History"
+msgstr "In and Out History" 
+
+msgid "source"
+msgstr "Original document" 
+
+msgid "plus or minus prop"
+msgstr "Addition and reduction of attributes" 
+
+msgid "deliver address"
+msgstr "Delivery address" 
+
+msgid "deliver date"
+msgstr "Delivery date" 
+
+msgid "sales man"
+msgstr "Salesperson" 
+
+msgid "invoice type"
+msgstr "Invoice type" 
+
+msgid "sale management"
+msgstr "Sales management" 
+
+msgid "sale order"
+msgstr "Sales order" 
+
+msgid "order detail"
+msgstr "Order details" 
+
+msgid "Payment Collection"
+msgstr "Sales collection" 
+
+msgid "collection date"
+msgstr "Collection date" 
+
+msgid "collection code"
+msgstr "Collection order number" 
+
+msgid "order amount"
+msgstr "Contract amount" 
+
+msgid "collection amount"
+msgstr "Amount received" 
+
+msgid "offer detail"
+msgstr "Quotation details" 
+
+msgid "offer date"
+msgstr "Quotation date" 
+
+msgid "offer man"
+msgstr "Quotation clerk" 
+
+msgid "offer sheet file"
+msgstr "Quotation form" 
+
+msgid "cost price"
+msgstr "Cost unit price" 
+
+msgid "mt type"
+msgstr "Material nature" 
+
+msgid "ware return"
+msgstr "Return to warehouse" 
+
+msgid "return item"
+msgstr "Return to warehouse details" 
+
+msgid "out count"
+msgstr "Quantity of materials" 
+
+msgid "Action Ware Return"
+msgstr "Execute return to warehouse" 
+
+msgid "ware adjust"
+msgstr "Inventory adjustment" 
+
+msgid "adjust item"
+msgstr "Adjustment details" 
+
+msgid "plus or minus property"
+msgstr "Increase and decrease attributes" 
+
+msgid "Action Ware Adjust"
+msgstr "Execute adjustment" 
+
+msgid "data import"
+msgstr "Import" 
+
+msgid "date"
+msgstr "Date" 
+
+msgid "clear old data?"
+msgstr "Clear old data? " 
+
+msgid "handler class"
+msgstr "Processing Class" 
+
+msgid "import"
+msgstr "Import" 
+
+msgid "action"
+msgstr "Execute" 
+
+msgid "data import successfully"
+msgstr "Data Import Successfully" 
+
+msgid "applier"
+msgstr "Applicant" 
+
+msgid "pay"
+msgstr "Payment" 
+
+msgid "PAYED"
+msgstr "Paid" 
+
+msgid "action successfully"
+msgstr "Executed Successfully" 
+
+msgid "Are your sure to execute the operations?"
+msgstr "Are you sure you want to perform this operation? " 
+
+msgid "to be imported detail"
+msgstr "Details to be imported" 
+
+msgid "draft"
+msgstr "Draft" 
+
+msgid "published"
+msgstr "Published" 
+
+msgid "keywords"
+msgstr "Keywords" 
+
+msgid "BUSINESS DOC"
+msgstr "Business documents" 
+
+msgid "SYSTEM MANUAL"
+msgstr "System manual" 
+
+msgid "document"
+msgstr "Document" 
+
+msgid "documents"
+msgstr "Document" 
+
+msgid "%(app)s administration"
+msgstr "%(app)s module" 
+
+msgid "next user handler"
+msgstr "next user processing class" 
+
+msgid "next node handler"
+msgstr "next node processing class" 
+
+msgid "status field"
+msgstr "Status field" 
+
+msgid "status value"
+msgstr "Status value" 
+
+msgid "execute action"
+msgstr "Execute action" 
+
+msgid "can edit"
+msgstr "Editable? " 
+
+msgid "attention"
+msgstr "Attention" 
+
+msgid "is done"
+msgstr "Done?" 
+
+msgid "Are you sure to deny the request?"
+msgstr "Are you sure you want to reject the application? " 
+
+msgid "Are you sure to terminate the request?"
+msgstr "Are you sure you want to terminate the application? " 
+
+msgid "workflow restarted success"
+msgstr "Workflow restarted successfully" 
+
+msgid "export selected %(verbose_name_plural)s"
+msgstr "Export selected %(verbose_name_plural)s" 
+
+msgid "publish selected %(verbose_name_plural)s"
+msgstr "Publish selected %(verbose_name_plural)s" 
+
+msgid "Are your sure to execute the check out operations?"
+msgstr "Are you sure you want to perform the outbound operation? " 
+
+msgid "check out successfully"
+msgstr "Successfully outbound" 
+
+msgid "check in successfully"
+msgstr "Successfully inbound" 
